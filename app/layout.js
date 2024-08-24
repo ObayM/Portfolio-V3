@@ -3,6 +3,7 @@ import "./globals.css";
 import Navbar from "./components/navbar.jsx";
 import InteractiveBackground from "./components/background";
 import CustomCursor from "./components/customCursor.jsx";
+import { Analytics } from "@vercel/analytics/react"
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -19,6 +20,7 @@ export default function RootLayout({ children }) {
         <InteractiveBackground/>
         {children}
         <CustomCursor/>
+        <Analytics/>
         </body>
     </html>
   );

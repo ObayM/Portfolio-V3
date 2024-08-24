@@ -44,7 +44,7 @@ const LandingPage = () => {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-xl md:text-2xl text-center mb-12 max-w-2xl"
         >
-          I'm a passionate developer creating innovative solutions and beautiful user experiences.
+          I&apos;m a passionate developer creating innovative solutions and beautiful user experiences.
         </motion.p>
         <motion.div
           initial="hidden"

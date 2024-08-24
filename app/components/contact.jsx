@@ -118,7 +118,7 @@ const ContactPage = () => {
                 transition={{ duration: 0.5 }}
                 className="mt-4 text-green-400 text-center"
               >
-                Thank you for your message! I'll get back to you soon.
+                Thank you for your message! I&apos;ll get back to you soon.
               </motion.p>
             )}
           </motion.div>
@@ -129,7 +129,7 @@ const ContactPage = () => {
           >
             <h2 className="text-3xl font-semibold mb-4">Connect With Me</h2>
             <p className="text-gray-300 mb-6">
-              Feel free to reach out through any of these platforms. I'm always excited to connect with fellow developers, potential clients, or anyone interested in tech!
+              Feel free to reach out through any of these platforms. I&apos;m always excited to connect with fellow developers, potential clients, or anyone interested in tech!
             </p>
             <div className="space-y-4">
               <SocialLink icon={FaGithub} label="GitHub" url="https://github.com/ObayM" />

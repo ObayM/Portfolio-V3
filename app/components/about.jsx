@@ -45,7 +45,7 @@ const AboutMePage = () => {
           >
             <h2 className="text-3xl font-semibold mb-4">Who I Am</h2>
             <p className="text-gray-300">
-              I'm a passionate full-stack developer with a keen eye for design and a love for creating
+              I&apos;m a passionate full-stack developer with a keen eye for design and a love for creating
               seamless user experiences. With years of experience in web and mobile development,
               I bring ideas to life through code and creativity.
             </p>
@@ -81,8 +81,8 @@ const AboutMePage = () => {
         >
           <h2 className="text-3xl font-semibold mb-4">My Interests</h2>
           <p className="text-gray-300">
-            When I'm not coding, you can find me exploring new technologies, contributing to open-source projects,
-            or sharing my knowledge through tech blogs and community meetups. I'm also an avid traveler and a
+            When I&apos;m not coding, you can find me exploring new technologies, contributing to open-source projects,
+            or sharing my knowledge through tech blogs and community meetups. I&apos;m also an avid traveler and a
             photography enthusiast, always seeking inspiration from the world around me.
           </p>
         </motion.div>
